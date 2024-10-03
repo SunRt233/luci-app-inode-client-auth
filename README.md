@@ -1,2 +1,2 @@
-# luci-app-ruijie-auth
-Luci 锐捷认证支持
+# luci-app-inode-client-auth
+Luci 锐捷iNode客户端认证支持
